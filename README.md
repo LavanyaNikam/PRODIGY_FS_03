@@ -1,4 +1,4 @@
-# ShopEase – E-commerce Website 🛒
+# ShopEase – E-commerce Website 🛒 - Task 3
 
 This project is part of my **Prodigy InfoTech Internship (Task 03)**.  
 ShopEase is a **MERN stack e-commerce platform** where users can browse products, sign up, log in, and place orders securely.
